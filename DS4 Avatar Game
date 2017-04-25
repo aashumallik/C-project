@@ -1,8 +1,4 @@
 # C-project// AVATAR GAME
-// Edited for ncurses 2008 Tom Daniels
-// Updated for Esplora 2013 TeamRursch185
-// Updated for DualShock 4 2016 Rursch
-
 
 // Headers
 #include <stdio.h>
