@@ -1,6 +1,6 @@
 # C-project/* SE 185 Lab 5 Wrapper Program */
 /* SE 185 Lab 5 Wrapper Program */
-
+# © Aashutosh Mallik
 #include <stdio.h>
 #include <math.h> 
 #define TRUE 1
