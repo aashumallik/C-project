@@ -1,5 +1,5 @@
 # C-project// Lab 10 DS4Talker Skeleton Code
-
+# © Aashutosh Mallik
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
