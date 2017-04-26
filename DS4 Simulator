@@ -1,6 +1,6 @@
 # C-project// SE 185 Lab 8
 #include <stdio.h>
-
+# © Aashutosh Mallik
 
 #define MAXPOINTS 10000
 
