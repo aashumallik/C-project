@@ -1,6 +1,6 @@
 # C-project#include <stdio.h>
 #include <math.h>
-
+# © Aashutosh Mallik
 #define TRUE 1
 
 double mag(double ax, double ay, double az);
